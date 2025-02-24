@@ -16,4 +16,4 @@ git clone https://github.com/brunocss/AutoDailyRedeem-PY.git
 pip install -r requirements.txt
 
 3. Run the script:
-python yourscript.py
+python main.py
