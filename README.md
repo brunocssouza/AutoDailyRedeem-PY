@@ -1,4 +1,4 @@
-# Keydrop Automation
+# Auto Daily Redeem
 
 This project automates the process of obtaining daily cases from Keydrop.
 
